@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/qimuya3/iosTest/master/22.png</string>
+					<string>https://github.com/qimuya3/iosTest/blob/master/22.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/qimuya3/iosTest/master/33.png</string>
+					<string>https://github.com/qimuya3/iosTest/blob/master/33.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
